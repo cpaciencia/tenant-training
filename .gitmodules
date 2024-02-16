@@ -5,3 +5,6 @@
 [submodule "users"]
 	path = users
 	url = https://github.com/cpaciencia/users.git
+[submodule "authors"]
+	path = authors
+	url = https://github.com/cpaciencia/authors.git
