@@ -43,6 +43,7 @@ The system will have two main roles: **User** and **Admin**.
 
 ## Deliverables
 - Source code, either uploaded to your repository or in a zip file.
+- postman collection to test end-points
 - Additional comments.
 - Instructions, if necessary.
 
