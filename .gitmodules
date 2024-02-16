@@ -1,0 +1,6 @@
+[submodule "te-gateway"]
+	path = te-gateway
+	url = git@bitbucket.org:cpacienciav/te-gateway.git
+[submodule "te-users"]
+	path = te-users
+	url = git@bitbucket.org:cpacienciav/te-users.git
