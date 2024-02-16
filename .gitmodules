@@ -8,3 +8,6 @@
 [submodule "authors"]
 	path = authors
 	url = https://github.com/cpaciencia/authors.git
+[submodule "movies"]
+	path = movies
+	url = https://github.com/cpaciencia/movies.git
