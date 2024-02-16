@@ -14,6 +14,9 @@ git submodule foreach 'git checkout main; git pull origin main'
 ```
 
 ### Import Database
+Import database.sql file to your MySQL database.
+
+### Microservices included
 The repository already includes the following microservices: `gateway`, `users`, `movies`, `authors`. Feel free to modify and create as needed to improve the architecture. You can add more microservices and more Spring Cloud functionalities.
 
 ## System Requirements
