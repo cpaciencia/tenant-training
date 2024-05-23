@@ -17,7 +17,7 @@ git submodule foreach 'git checkout main; git pull origin main'
 Import [database.sql](https://github.com/cpaciencia/tenant-training/blob/main/database.sql) file to your MySQL database.
 
 ### Microservices included
-The repository already includes the following microservices: `gateway`, `users`, `movies`, `authors`. Feel free to modify and create as needed to improve the architecture. You can add more microservices and more Spring Cloud functionalities.
+The repository already includes the following microservices: `gateway`, `users`, `movies`, `authors`. Feel free to modify and create as needed to improve the architecture. You can add more microservices and more Spring Cloud functionalities. you can delete
 
 ## System Requirements
 - Implement secure communication between microservices.
@@ -29,15 +29,10 @@ Two users are already created, one with a user role and another with an admin ro
 - Admin: `admin1` with password `adminAuth123456!`
 
 ## APIs to Deliver
-- Add a movie with its cover.
 - Modify a movie.
 - Add authors.
 - Delete a movie.
-- Delete authors.
-- List movies with pagination.
-- List movies with a filter by genre.
-- Search movies by the author's name.
-- Search for a movie ordered by a specific field.
+- List movies with pagination and filter by autor name
 
 ## Roles and Permissions
 The system will have two main roles: **User** and **Admin**.
@@ -45,7 +40,7 @@ The system will have two main roles: **User** and **Admin**.
 - **Admin**: Has permissions to perform all available actions in the system.
 
 ## Deliverables
-- Source code, either uploaded to your repository or in a zip file.
+- Source code,in a zip file.
 - postman collection to test end-points
 - Additional comments.
 - Instructions, if necessary.
@@ -57,7 +52,6 @@ The system will have two main roles: **User** and **Admin**.
 - Correct and efficient implementation of pagination.
 
 ## Valuable
-- Unit tests.
 - Add Docker Compose to automatically bring up everything, including the database.
 
 ## Additional Notes
