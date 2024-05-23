@@ -54,6 +54,8 @@ The system will have two main roles: **User** and **Admin**.
 - Add Docker Compose to automatically bring up everything, including the database.
 
 ## Additional Notes
+If you have any questions, please contact me at **cpaciencia@tenantevaluation.com**
+
 We recommend using JWT tokens or similar technology for authentication to secure communications between microservices and the user interface.
 
 Happy coding!
