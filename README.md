@@ -29,8 +29,7 @@ Two users are already created, one with a user role and another with an admin ro
 - Admin: `admin1` with password `adminAuth123456!`
 
 ## APIs to Deliver
-- Modify a movie.
-- Add authors.
+- Add movie.
 - Delete a movie.
 - List movies with pagination and filter by autor name
 
